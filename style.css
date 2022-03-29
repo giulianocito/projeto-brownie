@@ -36,7 +36,7 @@ header {
 }
 
 header > h1 {
-    font-size: 2.6em;
+    font-size: 2.4em;
     font-weight:lighter;
     padding-bottom: 20px;
     margin: 0px auto;
@@ -45,7 +45,7 @@ header > h1 {
 
 header > p {
     max-width: 500px;
-    font-size: 1.3em;
+    font-size: 1.2em;
     padding-right: 10px;
     padding-bottom: 20px;
     padding-left: 10px;
@@ -96,7 +96,7 @@ main h1 {
 main h2 {
     background-image: linear-gradient(to right, var(--cor0), transparent);
     font-family: var(--fonte-destaque);
-    font-size: 1.7em;
+    font-size: 1.6em;
     font-weight: normal;
     color: var(--cor4);
     margin: 10px 0px;
@@ -106,7 +106,7 @@ main h2 {
 
 main p {
     font-family: var(--fonte-padrao);
-    font-size: 1.1em;
+    font-size: 1em;
     text-align: justify;
     text-indent: 30px;
     padding: 10px;
@@ -142,7 +142,7 @@ aside  h4 {
     font-family: var(--fonte-destaque);
     font-weight: lighter;
     color: var(--cor4) ;
-    font-size: 1.4em;
+    font-size: 1.3em;
     padding: 10px 20px;
     
 }
@@ -158,7 +158,7 @@ main a:hover {
 }
 
 aside ul {
-    font-size: 1.1em;
+    font-size: 1em;
     list-style-position: inside;
     list-style-type: '\2795\00A0\00A0';
     line-height: 2em;
@@ -167,7 +167,7 @@ aside ul {
 }
 
 aside > p {
-    font-size: 1.1em;
+    font-size: 1em;
     text-align: justify;
     line-height: 2em;
     margin: 0px 10px;
